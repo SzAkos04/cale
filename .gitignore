@@ -1,0 +1,5 @@
+build/
+tests/
+valgrind.sh
+valgrind-out.txt
+out
